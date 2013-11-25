@@ -46,7 +46,8 @@ public class Weather {
         while(iterator.hasNext()) {   
         	i++;
             System.out.println("data" + ": " + ((Element) iterator.next()).text().trim()+" "+i);
-        }
+        } 
+        System.out.println("11111111111111111111111111111");
         
         //抓最新 y_table = ty_tables.get(0).select("tr").get(2);     
         URL typhoon = new URL("http://rdc28.cwb.gov.tw/tylist_warning.php");
