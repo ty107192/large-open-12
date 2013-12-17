@@ -1,19 +1,30 @@
-large-open-12
+大型及開源軟體開發
 =============
-
-large and open source project - team 12
-
-
+###第十二組
+large and open source project - team 12  
 
 Project Proposal:
+---------------------
+探討台灣的多雨季節中，受颱風與其他因素影響的差異。  
 
+Open Data :
+--------------------------
+[TDB防災颱風資料庫網頁系統](http://rdc28.cwb.gov.tw/data.php)
 
-探討台灣的多雨季節中，受颱風與其他因素影響的差異。
+[中央氣象局每日雨量統計](http://www.cwb.gov.tw/V7/climate/dailyPrecipitation/dP.htm)
 
+組員：
+-----
+周政凱、張家誠、陳尚佑
 
+Deploy:
+-----
+### git
 
-使用到的兩種 Open Data :
+Unit Test:
+-----
+### JUnit
 
-http://rdc28.cwb.gov.tw/data.php (TDB防災颱風資料庫網頁系統)
-
-http://www.cwb.gov.tw/V7/climate/dailyPrecipitation/dP.htm (中央氣象局每日雨量統計)
+Design Pattern:
+------
+### Interator
